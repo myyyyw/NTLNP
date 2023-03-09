@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'Start downloading'
+echo 'Start to download files'
 
 git lfs install
 git clone https://huggingface.co/datasets/myyyyw/NTLNP
