@@ -2,4 +2,4 @@
 an image dataset for object detection of wildlife in the mixed coniferous broad leaved forest
 
 # Download
-./download.sh
+run './download.sh'
